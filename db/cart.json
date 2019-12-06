@@ -1,0 +1,20 @@
+{
+    "amount": 46600,
+    "countGoods": 2,
+    "contents": [
+        {
+            "id_product": 1,
+            "product_name": "Mango People T-Shirt",
+            "price": 15,
+            "img": "img/fetured_1.jpg",
+            "quantity": 2
+        },
+        {
+            "id_product": 2,
+            "product_name": "Mango People T-Shirt",
+            "price": 25,
+            "img": "img/fetured_2.jpg",
+            "quantity": 1
+        }
+    ]
+}
