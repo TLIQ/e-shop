@@ -1,5 +1,5 @@
 Vue.component('products', {
-    props: ['slice'],
+    props: ['slice'], 
     data(){
       return {
           products: [],

@@ -1,4 +1,4 @@
-Vue.component('cart', {
+Vue.component('cart', { 
     data(){
       return {
           cartItems: [],
